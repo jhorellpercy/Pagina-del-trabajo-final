@@ -1,7 +1,7 @@
 const companeros = [
   { nombre: 'Fernando Marco Barra Pérez', url: 'https://fernandoucsp.github.io/proyecto2/' },
   { nombre: 'Enzo Stephen Casapia Vilca', url: 'https://enzovi1009-a11y.github.io/' },
-  { nombre: 'Vanderloth Pacco Huayhua', url: 'https://vanderlothpacco78-code.github.io/Mi-web/' },
+  { nombre: 'Vanderloth Sandro Pacco Huayhua', url: 'https://vanderlothpacco78-code.github.io/Mi-web/' },
 ];
 
 function Companeros() {
